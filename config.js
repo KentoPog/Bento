@@ -11,10 +11,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Hami',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com',
 		},
 	],
 
